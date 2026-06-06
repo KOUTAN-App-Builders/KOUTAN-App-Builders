@@ -1,4 +1,19 @@
-## Hi there 👋
+# Thank you for visiting!
+**Edit not yet complete. Will be updated soon!**
+**Access READMEs of other languages from the link below!**
+[日本語](README.JA.md)
+
+## About Me
+- 
+
+## My Dev ToDos
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+
+
+
 
 <!--
 **KOUTAN-App-Builders/KOUTAN-App-Builders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
