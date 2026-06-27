@@ -15,7 +15,7 @@
 
 ## My Projects
 - [DiGiDesk(Public)](https://www.github.com/KOUTAN-App-Builders/DiGiDesk) -> A portable and intigrated studying environment for students.
-- [MeDeX(Private)](https://www,github.com/KOUTAN-App-Builders/MeDeX) -> A medical record manager app for hospitals. **MOST ACTION EXPECTED for this summer.**
+- [MeDeX(Private)](https://www.github.com/KOUTAN-App-Builders/MeDeX) -> A medical record manager app for hospitals. **MOST ACTION EXPECTED for this summer.**
 - [Schedulous(Private)](https://www.github.com/KOUTAN-App-Builders/Schedulous) -> An app to record the time you've studied or worked. A DiGiDesk companion app. **Build currently paused**
 - [Stocker(Private)](https://www.github.com/KOUTAN-App-Builders/Stocker) -> An inventory managing app. **Build currently paused (may resume this summer)**
 
