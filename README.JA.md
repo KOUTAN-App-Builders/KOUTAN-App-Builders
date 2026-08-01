@@ -18,7 +18,11 @@
 - [x] Google Antigravityを試す。
 - [x] WWDC26をチェックする。
 - [ ] アプリプロジェクト作成を進める。（DiGiDesk & MeDeX）
+  - [ ] Foundation Models Framework & MedGemmaを試し、導入する。
 - [ ] ネットワーク管理について学ぶ。
+- [ ] GitHub Actionsを試してセットアップする。
+- [ ] プルリクエストについて学ぶ。
+
 ※ MeDeXは医療カルテアプリでコードは未公開ですが、この夏公開するかもしれません！お楽しみに！
 
 ## お問い合わせ
