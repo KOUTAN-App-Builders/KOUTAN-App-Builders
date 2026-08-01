@@ -24,7 +24,10 @@
 - [x] Trying out Google Antigravity
 - [x] Checking out WWDC26
 - [ ] Building my app projects (DiGiDesk & MeDeX)
+  - [ ] Testing and implementing the Foundation Models Framework & MedGemma
 - [ ] Learning about network management
+- [ ] Trying and Setting up GitHub Actions
+- [ ] Learning about Pull Requests
 
 FYI: MeDeX is a medical record manager app for hospitals. The code is not public yet but I might share the code this summer! Stay tuned!
 
