@@ -13,6 +13,7 @@
 - [MeDeX(非公開)](https://github.com/KOUTAN-App-Builders/MeDeX) -> 病院のための医療カルテアプリ。**この夏更新乞うご期待！**
 - [Schedulous(非公開)](https://github.com/KOUTAN-App-Builders/Schedulous) -> 学習や勤務の時間を記録するアプリ。DiGiDeskのコンパニオンアプリ。**制作一時中断中**
 - [Stocker(非公開)](https://github.com/KOUTAN-App-Builders/Stocker) -> 在庫管理アプリ。**制作一時中断中。この夏再開する可能性あり**
+- [MyRadio(非公開)](https://github.com/KOUTAN-App-Builders/MyRadio) -> 完全に個別化されたあなたのためのラジオアプリ。通勤/通学中の学生や会社員にぴったりのアプリ。DiGiDeskのコンパニオンアプリ。**2026年9月にビルド開始**
 
 ## 開発系ToDoリスト
 - [x] Google Antigravityを試す。
@@ -20,13 +21,14 @@
 - [ ] アプリプロジェクト作成を進める。（DiGiDesk & MeDeX）
   - [ ] Foundation Models Framework & MedGemmaを試し、導入する。
 - [ ] ネットワーク管理について学ぶ。
-- [ ] GitHub Actionsを試してセットアップする。
+- [x] GitHub Actionsを試してセットアップする。
 - [ ] プルリクエストについて学ぶ。
 
 ※ MeDeXは医療カルテアプリでコードは未公開ですが、この夏公開するかもしれません！お楽しみに！
 
 ## お問い合わせ
 - gikou21doc@gmail.com -- 返信をするのに時間を要してしまうかもしれません。申し訳ありません。
+
 
 
 KOUTAN-App-Builders
