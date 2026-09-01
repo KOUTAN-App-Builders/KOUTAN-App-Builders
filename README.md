@@ -18,6 +18,7 @@
 - [MeDeX(Private)](https://www.github.com/KOUTAN-App-Builders/MeDeX) -> A medical record manager app for hospitals. **MOST ACTION EXPECTED for this summer.**
 - [Schedulous(Private)](https://www.github.com/KOUTAN-App-Builders/Schedulous) -> An app to record the time you've studied or worked. A DiGiDesk companion app. **Build currently paused**
 - [Stocker(Private)](https://www.github.com/KOUTAN-App-Builders/Stocker) -> An inventory managing app. **Build currently paused (may resume this summer)**
+- [MyRadio(Private)](https://www.github.com/KOUTAN-App-Builders/MyRadio) -> A completely personalized radio app. Good for students or company employees who are commuting. A DiGiDesk companion app. **Build started September,2026**
 
 
 ## My Dev ToDos
@@ -26,13 +27,14 @@
 - [ ] Building my app projects (DiGiDesk & MeDeX)
   - [ ] Testing and implementing the Foundation Models Framework & MedGemma
 - [ ] Learning about network management
-- [ ] Trying and Setting up GitHub Actions
+- [x] Trying and Setting up GitHub Actions
 - [ ] Learning about Pull Requests
 
 FYI: MeDeX is a medical record manager app for hospitals. The code is not public yet but I might share the code this summer! Stay tuned!
 
 ## Contact me at:
 - gikou21doc@gmail.com -- Sorry, might take a while for me to make a response.
+
 
 KOUTAN-App-Builders
 
