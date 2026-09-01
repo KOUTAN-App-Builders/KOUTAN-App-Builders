@@ -3,7 +3,7 @@
 
 **Access READMEs of other languages from the link below!**
 
-[日本語](README.JA.md)
+[日本語](README.JA.md) | [Deutsch](README.DE.md) | [Español](README.ES.md) | [Français](README.FR.md) | [简体中文](README.zh-CN.md)
 
 ## About Me
 - I'm currently 19 years old.
