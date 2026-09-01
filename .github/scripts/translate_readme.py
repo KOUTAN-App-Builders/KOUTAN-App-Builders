@@ -45,7 +45,7 @@ for language, output_file in translations.items():
   print(f"Translating README into {language}...")
 
   response = client.models.generate_content(
-    model = "gemini-3.7-flash",
+    model = "gemini-3.5-flash-lite",
     contents = prompt
   )
 
