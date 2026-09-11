@@ -31,7 +31,7 @@ for language, output_file in translations.items():
 - プログラムコードやコマンドは変更しないでください
 - READMEの内容以外の説明は出力しないでください
 - 翻訳結果のみを出力してください
-- またREADMEの先頭に、このREADMEが日本語版READMEから翻訳されたものであることを、自然な{language}で記載してください
+- またREADMEの先頭に、このREADMEが生成AIによって日本語版READMEから翻訳されたものであることを、自然な{language}で記載してください
 
 以下が翻訳対象です。
 
