@@ -14,13 +14,13 @@
 
 ## Latest news & updates
 - September 11th, 2026 -> **MeDeX is now Public! v1.0.0 Beta is released!**
-- 
+- October 4th, 2026 -> **MeDeX v1.0.0 is here!**
 
 ## My Projects
 - [DiGiDesk(Public)](https://www.github.com/KOUTAN-App-Builders/DiGiDesk) -> A portable and intigrated studying environment for students.
-- [MeDeX(**Public**)](https://www.github.com/KOUTAN-App-Builders/MeDeX) -> A medical record manager app for hospitals. **version 1.0 beta just released! (Errors ARE PRESENT)**
+- [MeDeX(**Public**)](https://www.github.com/KOUTAN-App-Builders/MeDeX) -> A medical record manager app for hospitals. **version 1.0 just released! (Errors ARE PRESENT)**
 - [Schedulous(Private)](https://www.github.com/KOUTAN-App-Builders/Schedulous) -> An app to record the time you've studied or worked. A DiGiDesk companion app. **Build currently paused**
-- [Stocker(Private)](https://www.github.com/KOUTAN-App-Builders/Stocker) -> An inventory managing app. **Build currently paused (may resume this summer)**
+- [Stocker(Private)](https://www.github.com/KOUTAN-App-Builders/Stocker) -> An inventory managing app. **Build currently paused**
 - [MyRadio(Private)](https://www.github.com/KOUTAN-App-Builders/MyRadio) -> A completely personalized radio app. Good for students or company employees who are commuting. A DiGiDesk companion app. **Build started September,2026**
 
 
@@ -31,7 +31,7 @@
   - [ ] Testing and implementing the Foundation Models Framework & MedGemma
 - [ ] Learning about network management
 - [x] Trying and Setting up GitHub Actions
-- [ ] Learning about Pull Requests
+- [x] Learning about Pull Requests
 
 FYI: MeDeX is a medical record manager app for hospitals. Stay tuned for future updates!
 
