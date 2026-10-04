@@ -10,12 +10,13 @@
 
 # 最新のニュース ＆ 概況
 - 2026年9月11日　-- **MeDeXを遂に公開しました！v1.0.0ベータをリリースしました！**
+- 2026年10月4日 -- **MeDeXのv1.0.0(正式版)を遂にリリースしました！**
 
 ## 私のプロジェクト
 - [DiGiDesk(公開)](https://github.com/KOUTAN-App-Builders/DiGiDesk) -> 学習者のための持ち運び可能で統合された学習環境。
-- [MeDeX(**公開**)](https://github.com/KOUTAN-App-Builders/MeDeX) -> 病院のための医療カルテアプリ。**v1.0ベータがをちょうどリリースしました！（エラーはあります！）**
+- [MeDeX(**公開**)](https://github.com/KOUTAN-App-Builders/MeDeX) -> 病院のための医療カルテアプリ。**v1.0.0をちょうどリリースしました！（エラーはあり得ます！）**
 - [Schedulous(非公開)](https://github.com/KOUTAN-App-Builders/Schedulous) -> 学習や勤務の時間を記録するアプリ。DiGiDeskのコンパニオンアプリ。**制作一時中断中**
-- [Stocker(非公開)](https://github.com/KOUTAN-App-Builders/Stocker) -> 在庫管理アプリ。**制作一時中断中。この夏再開する可能性あり**
+- [Stocker(非公開)](https://github.com/KOUTAN-App-Builders/Stocker) -> 在庫管理アプリ。**制作一時中断中**
 - [MyRadio(非公開)](https://github.com/KOUTAN-App-Builders/MyRadio) -> 完全に個別化されたあなたのためのラジオアプリ。通勤/通学中の学生や会社員にぴったりのアプリ。DiGiDeskのコンパニオンアプリ。**2026年9月にビルド開始**
 
 ## 開発系ToDoリスト
@@ -25,7 +26,7 @@
   - [ ] Foundation Models Framework & MedGemmaを試し、導入する。
 - [ ] ネットワーク管理について学ぶ。
 - [x] GitHub Actionsを試してセットアップする。
-- [ ] プルリクエストについて学ぶ。
+- [x] プルリクエストについて学ぶ。
 
 ※ MeDeXは医療カルテアプリです！今後のアップデートをお楽しみに！
 
